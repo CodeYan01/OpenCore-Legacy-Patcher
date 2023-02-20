@@ -94,7 +94,7 @@ Once done, lets reboot into OpenCore's Menu and you'll see a new Windows' entry:
 
 ![](../images/oc-windows.png)
 
-From there, install Windows as normal and you'll get a new BootCamp entry in OpenCore's picker when done! Don't forget to run BootCamp's utilities installer as well to ensure Wi-Fi and other important features are functioning correctly. This can be downloaded from the BootCamp Assistant app in macOS, or with [brigadier](https://github.com/timsutton/brigadier) in Windows.
+From there, install Windows as normal. If it says that Windows must be installed to an NTFS drive, simply select the BOOTCAMP drive and click Format. Once done, you'll get a new BootCamp entry in OpenCore's picker! Don't forget to run BootCamp's utilities installer as well to ensure Wi-Fi and other important features are functioning correctly. This can be downloaded from the BootCamp Assistant app in macOS, or with [brigadier](https://github.com/timsutton/brigadier) in Windows.
 
 ![](../images/oc-windows-done.png)
 
